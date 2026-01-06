@@ -7,5 +7,5 @@ This repository contains MySQL queries written to answer practical data-related 
 
 MySQL: Advanced SQL concepts including Joins, CTEs, Subqueries and more to extract valuable data.  
 
-📈 Insights 
+📈 Insights   
 The queries demonstrate effective use of filtering, aggregation, joins, and conditional logic to extract meaningful information efficiently.
