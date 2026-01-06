@@ -1,4 +1,4 @@
---Select all the hero races with an average weight of over 150 and an average height of over 100
+--Select all the hero races with an average weight of over 150 and an average height of over 100 
 
 SELECT Race, AVG(Weight) as Average_weight, AVG(Height) as Average_height
 FROM heroes_information 
